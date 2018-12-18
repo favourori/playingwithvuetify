@@ -3,7 +3,8 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 var config = {
-  apiKey: "AIzaSyBt-QFORdXZ5tBex_3AayJW7YkjcpajfjU",
+    //Api Key here
+  apiKey: "",
   authDomain: "taskmanager-f94b6.firebaseapp.com",
   databaseURL: "https://taskmanager-f94b6.firebaseio.com",
   projectId: "taskmanager-f94b6",
